@@ -15,4 +15,4 @@ This project aims to provide ready-to-use HTML templates for index, contact, and
 - Consistent design language and responsive layout across all pages.
 
 ## project
-- to view click []
+- to view click [https://hariprasads1234.github.io/greenden-mini-project/]
